@@ -1,7 +1,7 @@
 import this
 
 from core.Resource import Resource
-from core.utils.validator import is_common_resource_validation
+from core.utils.resource_validator import is_common_resource_validation
 
 
 class Patient(Resource):

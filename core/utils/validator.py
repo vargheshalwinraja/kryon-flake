@@ -13,7 +13,3 @@ def validate_resource_type(resource_type, json):
 
     return None
 
-
-def is_common_resource_validation(resource):
-
-    return True
